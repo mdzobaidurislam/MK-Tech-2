@@ -1,0 +1,43 @@
+/* slider  */
+
+.banner1 {
+
+    background: linear-gradient(186deg, #896eff3d, #fffffff2);
+}
+
+.ptb_80 {
+    padding: 80px 0;
+}
+
+
+.slider_content h1 {
+    font-size: 33px;
+    line-height: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #1f2471;
+}
+
+.slider_content span {
+    color: #896eff;
+}
+
+.slider_content p {
+    font-size: 18px;
+    line-height: 37px;
+    margin-bottom: 30px;
+    color: #644F9C;
+}
+
+.slider_content .custom_btn {
+    border: 1px solid #896eff;
+}
+
+.slider_content .custom_btn:hover {
+    color: #896eff;
+    background: transparent;
+}
+
+.slider_section .carousel-indicators [data-bs-target] {
+    background-color: #896eff;
+}

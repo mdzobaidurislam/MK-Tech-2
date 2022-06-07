@@ -1,0 +1,33 @@
+a,
+a.active,
+a:focus,
+a:hover {
+    text-decoration: none;
+    outline: none;
+}
+
+a {
+    background-color: transparent;
+}
+
+.custom_btn {
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 40px;
+    line-height: 56px;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: #896eff;
+    text-decoration: none;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    box-shadow: 0 10px 15px 0px rgb(237 106 73 / 9%);
+    transition: all 0.5s;
+}
+
+.ptb_100 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
